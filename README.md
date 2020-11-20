@@ -11,6 +11,8 @@ git clone https://github.com/MichaelOlatunji/blog-gatsby.git
 # Install
 ```bash
 npm install
+or
+yarn install
 ```
 
 ## Development
@@ -18,9 +20,13 @@ npm install
 ```bash
 # develop 
 npm start
+or
+yarn start
 
 # build
 npm run build
+or 
+yarn build
 ```
 
 ## Credits
